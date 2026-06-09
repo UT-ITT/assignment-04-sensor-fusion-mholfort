@@ -11,3 +11,9 @@
     4. Bottom left corner
 - Press ESC to reset/exit
 - Press S to save new image
+
+## AR_game.py
+- Run the AR game code
+- Hold your board with aruco markers to the camera
+- Once the aruco markers are detected the game will start
+- Pop the circles from below using your finger
