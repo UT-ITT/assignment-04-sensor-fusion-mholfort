@@ -17,3 +17,4 @@
 - Hold your board with aruco markers to the camera
 - Once the aruco markers are detected the game will start
 - Pop the circles from below using your finger
+- Press Q to exit game
